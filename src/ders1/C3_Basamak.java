@@ -5,9 +5,10 @@ import java.util.Scanner;
 public class C3_Basamak {
 
 	public static void main(String[] args) {
-		// Kullanıcıdan 4 basamaklı bir sayı alın ve bunu tersten yazdırın
+		// KullanÄ±cÄ±dan 4 basamaklÄ± bir sayÄ± alÄ±n ve bunu tersten yazdÄ±rÄ±n
 		Scanner scan = new Scanner (System.in);
-		System.out.println("lutfen dort basamaklı bir sayı giriniz");
+		System.out.println("lutfen dort basamaklÄ± bir sayÄ± giriniz");
+		System.out.println("ikinci degisiklik yapÄ±ldÄ±");
 		int sayi = scan.nextInt();
 		
 		int birlerbas = sayi%10;
@@ -19,7 +20,7 @@ public class C3_Basamak {
 		int binlerbas= sayi;
 		
 		
-		System.out.println("sayının tersten yazılısı:" +birlerbas+onlarbas+yuzlerbas+binlerbas);
+		System.out.println("sayÄ±nÄ±n tersten yazÄ±lÄ±sÄ±:" +birlerbas+onlarbas+yuzlerbas+binlerbas);
 		scan.close();
 
 	}
