@@ -2,15 +2,16 @@ package ders1;
 
 import java.util.Scanner;
 
-public class C1_ikisayýbol {
+public class C1_ikisayÄ±bol {
 
 	public static void main(String[] args) {
-		//Örnek 4:Kullanýcýdan iki sayý alýn
-		//bu iki sayýdan buyuk olaný kücüge bolun
-		//sonucunu yazdýrýn
+		//Ã–rnek 4:KullanÄ±cÄ±dan iki sayÄ± alÄ±n
+		//bu iki sayÄ±dan buyuk olanÄ± kÃ¼cÃ¼ge bolun
+		//sonucunu yazdÄ±rÄ±n
 
    Scanner scan = new Scanner (System.in);
-   System.out.println("lutfen iki sayý giriniz");
+   System.out.println("lutfen iki sayÄ± giriniz");
+	System.out.println("uzak sunucudaki kodum");	// GitHub daki degisiklik
    
   double sayi1= scan.nextDouble();
   double sayi2= scan.nextDouble();
@@ -21,7 +22,7 @@ public class C1_ikisayýbol {
 } else if(sayi2>sayi1) {
     System.out.println("bolumun sonucu:"+sayi2/sayi1);
 } else {
-	System.out.println("girdiginiz sayýlar birbirine esittir");
+	System.out.println("girdiginiz sayÄ±lar birbirine esittir");
 }
 		       scan.close();
 		        
