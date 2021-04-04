@@ -2,7 +2,7 @@ package ders1;
 
 import java.util.Scanner;
 
-public class C4_YazılıNot {
+public class C4_YaziliNot {
 
 	public static void main(String[] args) {
 		//Kullanıcıdan rakam olarak notunu alıp;

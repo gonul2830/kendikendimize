@@ -2,7 +2,7 @@ package ders1;
 
 import java.util.Scanner;
 
-public class C1_ikisayıbol {
+public class C1_ikisayibol {
 
 	public static void main(String[] args) {
 		//Örnek 4:Kullanıcıdan iki sayı alın
