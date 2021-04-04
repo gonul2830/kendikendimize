@@ -11,7 +11,7 @@ public class C1_ikisayıbol {
 
    Scanner scan = new Scanner (System.in);
    System.out.println("lutfen iki sayı giriniz");
-	System.out.println("uzak sunucudaki kodum");	// GitHub daki degisiklik
+	System.out.println("uzak sunucudaki kodlarım");	// GitHub daki degisiklik
    
   double sayi1= scan.nextDouble();
   double sayi2= scan.nextDouble();
