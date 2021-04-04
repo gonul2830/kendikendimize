@@ -21,11 +21,13 @@ public class C3_Basamak {
 		
 		
 		System.out.println("sayının tersten yazılısı:" +birlerbas+onlarbas+yuzlerbas+binlerbas);
-		scan.close();
+
 
 		
+
 		
 		System.out.println("son degisiklik");
+		scan.close();
 	}
 
 }
