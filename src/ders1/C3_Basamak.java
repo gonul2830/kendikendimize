@@ -9,6 +9,7 @@ public class C3_Basamak {
 		Scanner scan = new Scanner (System.in);
 		System.out.println("lutfen dort basamaklı bir sayı giriniz");
 		System.out.println("ikinci degisiklik yapıldı");
+		System.out.println("ucuncu degisiklik yapıldı");
 		int sayi = scan.nextInt();
 		
 		int birlerbas = sayi%10;
@@ -24,10 +25,14 @@ public class C3_Basamak {
 
 
 		
+<<<<<<< HEAD
 
 		
 		System.out.println("son degisiklik");
 		scan.close();
+=======
+		System.out.println(" son satir degisikligi degisiklik yapıldı ");
+>>>>>>> refs/remotes/origin/master
 	}
 
 }
