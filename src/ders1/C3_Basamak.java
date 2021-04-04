@@ -24,7 +24,7 @@ public class C3_Basamak {
 		scan.close();
 
 		
-		System.out.println("son satir degisikligi degisiklik yapıldı");
+		System.out.println("son satir degisikligi degisiklik yapıldı ");
 	}
 
 }
