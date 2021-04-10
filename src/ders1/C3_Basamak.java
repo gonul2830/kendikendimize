@@ -25,14 +25,16 @@ public class C3_Basamak {
 
 
 		
-<<<<<<< HEAD
+
 
 		
 		System.out.println("son degisiklik");
 		scan.close();
-=======
+
 		System.out.println(" son satir degisikligi degisiklik yapıldı ");
->>>>>>> refs/remotes/origin/master
+		
+		
+		System.out.println("gonul de yazd�gim yer");
 	}
 
 }
